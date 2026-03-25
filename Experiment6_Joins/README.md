@@ -1,3 +1,6 @@
+## NAME : G.MITHIK JAIN
+## REG NO:212224240087
+
 # Experiment 6: Joins
 
 ## AIM
